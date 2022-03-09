@@ -34,7 +34,7 @@ For this we used JavaScript to listen for the user's input and rebuild the table
 
 - The webpage is divided into four main sections. The navbar has a link to return to the homepage if in the future more sections are added.
 
-    [Webpage Overview](/static/images/structure.png)
+    ![Webpage Overview](/static/images/structure.png)
 
 ### Javascript table
 
